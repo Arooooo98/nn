@@ -1,1 +1,1 @@
-# pll
+# Druga praca domowa GoIT
